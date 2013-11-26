@@ -8,6 +8,9 @@ using Vision.Features.Matching;
 
 namespace Vision.Features
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Core
     {
         private static ModelHandler _modelHandler;
