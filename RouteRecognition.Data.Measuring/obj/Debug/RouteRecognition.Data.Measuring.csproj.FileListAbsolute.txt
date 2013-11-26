@@ -1,0 +1,7 @@
+C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\bin\Debug\RouteRecognition.Data.Measuring.dll
+C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\bin\Debug\RouteRecognition.Data.Measuring.pdb
+C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\bin\Debug\RouteRecognition.Data.dll
+C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\bin\Debug\RouteRecognition.Data.pdb
+C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\obj\Debug\RouteRecognition.Data.Measuring.dll
+C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\obj\Debug\RouteRecognition.Data.Measuring.pdb

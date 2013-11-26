@@ -1,0 +1,6 @@
+C:\Projects\UClimbingGuide\dll\bin\RouteMeasure.exe.config
+C:\Projects\UClimbingGuide\dll\bin\RouteMeasure.exe
+C:\Projects\UClimbingGuide\dll\bin\RouteMeasure.pdb
+C:\Projects\UClimbingGuide\app\src\RouteMeasure\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\UClimbingGuide\app\src\RouteMeasure\obj\x86\Debug\RouteMeasure.exe
+C:\Projects\UClimbingGuide\app\src\RouteMeasure\obj\x86\Debug\RouteMeasure.pdb

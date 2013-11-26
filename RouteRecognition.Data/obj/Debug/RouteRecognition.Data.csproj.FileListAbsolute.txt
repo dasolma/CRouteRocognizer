@@ -1,0 +1,5 @@
+C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data\bin\Debug\RouteRecognition.Data.dll
+C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data\bin\Debug\RouteRecognition.Data.pdb
+C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data\obj\Debug\RouteRecognition.Data.dll
+C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data\obj\Debug\RouteRecognition.Data.pdb

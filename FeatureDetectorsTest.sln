@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureDetectorsTest", "FeatureDetectorsTest\FeatureDetectorsTest.csproj", "{71DFF8C0-B2A5-4824-9A4F-6A6A60A6DCD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision.Features", "Vision.Features\Vision.Features.csproj", "{732D0FED-4B64-4D08-9567-02C9AE49BE0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DFF8C0-B2A5-4824-9A4F-6A6A60A6DCD1}.Debug|x86.ActiveCfg = Debug|x86
+		{71DFF8C0-B2A5-4824-9A4F-6A6A60A6DCD1}.Debug|x86.Build.0 = Debug|x86
+		{71DFF8C0-B2A5-4824-9A4F-6A6A60A6DCD1}.Release|x86.ActiveCfg = Release|x86
+		{71DFF8C0-B2A5-4824-9A4F-6A6A60A6DCD1}.Release|x86.Build.0 = Release|x86
+		{732D0FED-4B64-4D08-9567-02C9AE49BE0A}.Debug|x86.ActiveCfg = Debug|x86
+		{732D0FED-4B64-4D08-9567-02C9AE49BE0A}.Debug|x86.Build.0 = Debug|x86
+		{732D0FED-4B64-4D08-9567-02C9AE49BE0A}.Release|x86.ActiveCfg = Release|x86
+		{732D0FED-4B64-4D08-9567-02C9AE49BE0A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
