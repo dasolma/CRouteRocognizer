@@ -19,3 +19,13 @@ C:\Projects\UClimbingGuide\app\src\Routerecognition.UI.Controls\obj\Debug\Genera
 C:\Projects\UClimbingGuide\app\src\Routerecognition.UI.Controls\obj\Debug\GenerateResource.write.1.tlog
 C:\Projects\UClimbingGuide\app\src\Routerecognition.UI.Controls\obj\Debug\UI.Controls.dll
 C:\Projects\UClimbingGuide\app\src\Routerecognition.UI.Controls\obj\Debug\UI.Controls.pdb
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\Routerecognition.UI.Controls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\Routerecognition.UI.Controls\obj\Debug\UI.Controls.RouteDesigner.resources
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\Routerecognition.UI.Controls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\Routerecognition.UI.Controls\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\Routerecognition.UI.Controls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\Routerecognition.UI.Controls\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\Routerecognition.UI.Controls\obj\Debug\UI.Controls.dll
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\Routerecognition.UI.Controls\obj\Debug\UI.Controls.pdb
+C:\Projects\UClimbingGuide\app\bin\UI.Controls.dll
+C:\Projects\UClimbingGuide\app\bin\UI.Controls.pdb

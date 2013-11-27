@@ -48,8 +48,8 @@ namespace RouteDesigner
 
         private void SelectImagesDirectory()
         {
-            if (System.IO.Directory.Exists("../../../doc/images"))
-                directory = "../../../doc/images";
+            if (System.IO.Directory.Exists("../../doc/images"))
+                directory = "../../doc/images";
             else
             {
                 //select manually

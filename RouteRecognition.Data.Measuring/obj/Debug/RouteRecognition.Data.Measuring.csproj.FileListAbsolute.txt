@@ -5,3 +5,8 @@ C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\bin\Debug\Rou
 C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\obj\Debug\ResolveAssemblyReference.cache
 C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\obj\Debug\RouteRecognition.Data.Measuring.dll
 C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\obj\Debug\RouteRecognition.Data.Measuring.pdb
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\obj\Debug\RouteRecognition.Data.Measuring.dll
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\RouteRecognition.Data.Measuring\obj\Debug\RouteRecognition.Data.Measuring.pdb
+C:\Projects\UClimbingGuide\app\bin\RouteRecognition.Data.Measuring.dll
+C:\Projects\UClimbingGuide\app\bin\RouteRecognition.Data.Measuring.pdb

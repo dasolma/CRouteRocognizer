@@ -14,3 +14,8 @@ C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data\bin\Debug\Emgu.Util.pdb
 C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data\bin\Debug\Emgu.Util.xml
 C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data\bin\Debug\Emgu.CV.GPU.pdb
 C:\Projects\UClimbingGuide\app\src\RouteRecognition.Data\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\RouteRecognition.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\RouteRecognition.Data\obj\Debug\RouteRecognition.Data.dll
+C:\Users\David\Dropbox\PID\WorkSpace\UClimbingGuide\app\src\RouteRecognition.Data\obj\Debug\RouteRecognition.Data.pdb
+C:\Projects\UClimbingGuide\app\bin\RouteRecognition.Data.dll
+C:\Projects\UClimbingGuide\app\bin\RouteRecognition.Data.pdb
