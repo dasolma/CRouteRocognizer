@@ -1,0 +1,3 @@
+C:\Projects\UClimbingGuide\dll\bin\RouteMeasure.exe.config
+C:\Projects\UClimbingGuide\bin\RouteMeasure.exe.config
+C:\Projects\UClimbingGuide\app\bin\RouteMeasure.exe.config
