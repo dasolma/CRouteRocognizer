@@ -13,9 +13,27 @@ namespace Vision.Features.Detector
         public VectorOfKeyPoint keyPoints;
         private Matrix<byte> descriptors;
         private Matrix<float> floatDescriptors;
-        public int With;
-        public int Heigth;
-        public string name;
+        private int _width;
+
+        public int Width
+        {
+            get { return _width; }
+            set { _width = value; }
+        }
+        private int _heigth;
+
+        public int Heigth
+        {
+            get { return _heigth; }
+            set { _heigth = value; }
+        }
+        private string _name;
+
+        public string Name
+        {
+            get { return _name; }
+            set { _name = value; }
+        }
 
         public Matrix<byte> ByteDescriptors
         {

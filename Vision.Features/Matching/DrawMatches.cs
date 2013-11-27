@@ -334,7 +334,7 @@ namespace Vision.Features.Matching
                       #region draw the projected region on the image
                       if (homography != null &&  notZeroCount > notZeroCountCand)
                       {
-                          Rectangle rect = new Rectangle(0, 0, modelFeatures.With, modelFeatures.Heigth);
+                          Rectangle rect = new Rectangle(0, 0, modelFeatures.Width, modelFeatures.Heigth);
                           PointF[] pts = new PointF[] { 
                             new PointF(rect.Left, rect.Bottom),
                             new PointF(rect.Right , rect.Bottom),
@@ -342,7 +342,7 @@ namespace Vision.Features.Matching
                             new PointF(rect.Left, rect.Top)};
                           homography.ProjectPoints(pts);
 
-                          double el1 = (double)modelFeatures.With / modelFeatures.Heigth;
+                          double el1 = (double)modelFeatures.Width / modelFeatures.Heigth;
                           double el = Elongation(pts[0], pts[1], pts[2], pts[3]);
                           double f = el1 / el;
                           double m = MinAngle(pts[0], pts[1], pts[2], pts[3]);
@@ -384,7 +384,7 @@ namespace Vision.Features.Matching
 
               if (homographyCand != null)
               {  //draw a rectangle along the projected model
-                  Rectangle rect = new Rectangle(0, 0, modelCand.With, modelCand.Heigth);
+                  Rectangle rect = new Rectangle(0, 0, modelCand.Width, modelCand.Heigth);
                   PointF[] pts = new PointF[] { 
                             new PointF(rect.Left, rect.Bottom),
                             new PointF(rect.Right , rect.Bottom),
@@ -409,7 +409,7 @@ namespace Vision.Features.Matching
                   result.Draw( new CircleF(center, 5), new Bgr(Color.Red), 5);
                   MCvFont font = new MCvFont(FONT.CV_FONT_HERSHEY_PLAIN, 2, 2);
                   Point p = new Point((int)x, (int)y);
-                  result.Draw( modelCand.name, ref font, p, new Bgr(Color.Red));
+                  result.Draw( modelCand.Name, ref font, p, new Bgr(Color.Red));
 
                   
                   p = new Point(10, 20);
@@ -421,7 +421,7 @@ namespace Vision.Features.Matching
                   p = new Point(10, 40);
                   result.Draw("Min angle: " + m.ToString(), ref font, p, new Bgr(Color.Red));
 
-                  double el1 = (double)modelCand.With / modelCand.Heigth;
+                  double el1 = (double)modelCand.Width / modelCand.Heigth;
                   double el = Elongation(pts[0], pts[1], pts[2], pts[3]);
                    p = new Point(10, 60);
                   result.Draw("Elongation factor: " + el1 / el , ref font, p, new Bgr(Color.Red));

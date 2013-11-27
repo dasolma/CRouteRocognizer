@@ -26,7 +26,7 @@ namespace Vision.Features.Model
             for (int a = 0; a < 360; a += 360)
             {
                 Vision.Features.Detector.Features features = extractor.GetFeatures(image.Rotate(a, new Gray(255)), mask.Rotate(a, new Gray(0)));
-                features.name = name;
+                features.Name = name;
 
                 if (features.keyPoints != null && features.keyPoints.Size > 0)
                 {
