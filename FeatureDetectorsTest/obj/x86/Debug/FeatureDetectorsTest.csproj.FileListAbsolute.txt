@@ -33,3 +33,6 @@ C:\Projects\UClimbingGuide\app\src\FeatureDetectorsTest\zh-CN\ZedGraph.resources
 C:\Projects\UClimbingGuide\app\dll\bin\FeatureDetectorsTest.exe.config
 C:\Projects\UClimbingGuide\app\dll\bin\FeatureDetectorsTest.exe
 C:\Projects\UClimbingGuide\app\dll\bin\FeatureDetectorsTest.pdb
+C:\Projects\UClimbingGuide\app\bin\FeatureDetectorsTest.exe.config
+C:\Projects\UClimbingGuide\app\bin\FeatureDetectorsTest.exe
+C:\Projects\UClimbingGuide\app\bin\FeatureDetectorsTest.pdb
