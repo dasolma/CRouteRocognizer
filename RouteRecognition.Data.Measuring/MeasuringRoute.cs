@@ -7,5 +7,12 @@ namespace RouteRecognition.Data.Measuring
 {
     public class MeasuringRoute : RouteRecognition.Data.Route
     {
+        private string _imagePath;
+
+        public string ImagePath
+        {
+            get { return _imagePath; }
+            set { _imagePath = value; }
+        }
     }
 }

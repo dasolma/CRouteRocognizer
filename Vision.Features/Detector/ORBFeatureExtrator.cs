@@ -26,7 +26,7 @@ namespace Vision.Features.Detector
             features.keyPoints = fastCPU.DetectKeyPointsRaw(image, mask);
             features.ByteDescriptors = descriptor.ComputeDescriptorsRaw(image, null, features.keyPoints);
             features.Width = image.Width;
-            features.Heigth = image.Height;
+            features.Height = image.Height;
 
             return features;
         }

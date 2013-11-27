@@ -47,6 +47,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Route.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Vision.Features\Vision.Features.csproj">
+      <Project>{732D0FED-4B64-4D08-9567-02C9AE49BE0A}</Project>
+      <Name>Vision.Features</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

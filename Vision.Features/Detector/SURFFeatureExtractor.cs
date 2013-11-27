@@ -28,7 +28,7 @@ namespace Vision.Features.Detector
             //features.FloatDescriptors = fastCPU.DetectAndCompute(image, null, features.keyPoints);
             features.ByteDescriptors = descriptor.ComputeDescriptorsRaw(image, null, features.keyPoints);
             features.Width = image.Width;
-            features.Heigth = image.Height;
+            features.Height = image.Height;
 
             return features;
         }

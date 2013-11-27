@@ -20,12 +20,12 @@ namespace Vision.Features.Detector
             get { return _width; }
             set { _width = value; }
         }
-        private int _heigth;
+        private int _height;
 
-        public int Heigth
+        public int Height
         {
-            get { return _heigth; }
-            set { _heigth = value; }
+            get { return _height; }
+            set { _height = value; }
         }
         private string _name;
 
